@@ -9,7 +9,9 @@ Python 3.6.3 or above
 ### package required:
 
 [salesforce_bulk](https://github.com/heroku/salesforce-bulk)
+
 [azure](https://pypi.org/project/azure/)
+
 [sfdclib](https://pypi.org/project/sfdclib/)
 
 ### configuration:
